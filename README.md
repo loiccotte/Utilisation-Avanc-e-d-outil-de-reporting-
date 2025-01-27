@@ -53,7 +53,7 @@ Le fichier Power BI (à télécharger) contient trois onglets principaux corresp
 ## Aperçu
 
 ## Aperçu dynamique
-[Visualisez le tableau de bord Power BI]([https://app.powerbi.com/view?r=exemple_de_lien](https://app.powerbi.com/groups/me/apps/b0350e00-5f05-48df-88fd-7e5ea7a1347c/reports/c228b5ac-c6f8-4da2-8023-b7948545dc60/e1caff79acbb0aec4101?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&experience=power-bi))
+- Visualiser le projet [https://app.powerbi.com/groups/me/apps/b0350e00-5f05-48df-88fd-7e5ea7a1347c/reports/c228b5ac-c6f8-4da2-8023-b7948545dc60/e1caff79acbb0aec4101?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&experience=power-bi).
 
 
 ---
