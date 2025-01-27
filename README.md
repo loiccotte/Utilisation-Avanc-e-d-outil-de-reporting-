@@ -1,7 +1,8 @@
-
 # Bilan Énergétique Global - Tableau de Bord Power BI
 
 Ce projet propose un tableau de bord interactif créé avec Power BI pour analyser et visualiser les données énergétiques et les émissions de gaz à effet de serre (GES). Il est conçu pour aider à identifier les tendances et à faciliter la prise de décision dans le cadre de la gestion énergétique et environnementale.
+
+La documentation fonctionnelle et technique est disponible à l'adresse suivante : [Documentation Fonctionnelle et Technique](https://loiccotte.github.io/Utilisation-Avanc-e-d-outil-de-reporting-/).
 
 ## Fonctionnalités principales
 
@@ -45,14 +46,6 @@ Le fichier Power BI (à télécharger) contient trois onglets principaux corresp
    - Utilisez les onglets en haut pour basculer entre les pages.
    - Filtrez les données à l’aide des menus déroulants et des contrôles interactifs.
 
-
-
 ## Aperçu
 
 [Visualisez le tableau de bord Power BI](https://app.powerbi.com/groups/me/apps/b0350e00-5f05-48df-88fd-7e5ea7a1347c/reports/c228b5ac-c6f8-4da2-8023-b7948545dc60/e1caff79acbb0aec4101?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&experience=power-bi)
-
-
-
----
-
-
