@@ -45,10 +45,6 @@ Le fichier Power BI (à télécharger) contient trois onglets principaux corresp
    - Utilisez les onglets en haut pour basculer entre les pages.
    - Filtrez les données à l’aide des menus déroulants et des contrôles interactifs.
 
-## Suggestions d’améliorations
-- Ajouter des données supplémentaires pour une analyse plus approfondie (ex. : sources d'énergie renouvelable).
-- Intégrer des visualisations prédictives pour estimer les tendances futures.
-- Connecter à une base de données en ligne pour une mise à jour automatique des données.
 
 ## Aperçu
 
@@ -60,8 +56,4 @@ Le fichier Power BI (à télécharger) contient trois onglets principaux corresp
 
 ---
 
-## Auteur
-Ce projet a été réalisé par [Votre Nom] dans le cadre de la gestion énergétique et environnementale.
 
-## Licence
-Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le redistribuer avec attribution.
