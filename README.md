@@ -1,2 +1,94 @@
-# Utilisation-Avance-d-outil-de-reporting-
-SAÉ Utilisation Avancée d'outil de reporting 
+Bilan Énergétique Global - Tableau de Bord Power BI
+
+Ce projet propose un tableau de bord interactif créé avec Power BI pour analyser et visualiser les données énergétiques et les émissions de gaz à effet de serre (GES). Il est conçu pour aider à identifier les tendances et à faciliter la prise de décision dans le cadre de la gestion énergétique et environnementale.
+
+Fonctionnalités principales
+
+1. Bilan Énergétique Global
+
+Indicateurs clés :
+
+Consommation énergétique totale (MWh).
+
+Consommation par m² (MWh/m²).
+
+Émissions de GES totales (tonnes CO₂).
+
+Émissions de GES par m² (kg CO₂/m²).
+
+Carte interactive des consommations énergétiques par ville.
+
+Graphiques circulaires et à barres montrant la répartition des types de consommation.
+
+2. Comparaison Énergétique Communale
+
+Analyse comparative de la consommation énergétique et des émissions de GES entre différentes communes.
+
+Graphiques à barres pour comparer les indicateurs principaux par commune.
+
+Graphiques linéaires montrant l'évolution de la consommation énergétique et des émissions au fil du temps.
+
+Tableau de synthèse pour une lecture rapide des tendances.
+
+3. Sources et Émissions Énergétiques
+
+Diagrammes empilés : répartition de la consommation énergétique par type de bâtiment et par source d'énergie.
+
+Graphiques temporels : évolution des émissions de GES en fonction de l'année de construction.
+
+Objectifs du projet
+
+Analyse énergétique : Comprendre les modèles de consommation et identifier les zones de forte consommation.
+
+Suivi des émissions : Évaluer l'impact environnemental des activités énergétiques.
+
+Facilitation de la prise de décision : Aider les gestionnaires à orienter leurs efforts vers une consommation plus durable.
+
+Structure du projet
+
+Le fichier Power BI (à télécharger) contient trois onglets principaux correspondant aux fonctionnalités ci-dessus :
+
+Bilan Énergétique Global.
+
+Comparaison Communale.
+
+Sources et Émissions Énergétiques.
+
+Instructions d’utilisation
+
+Prérequis :
+
+Installer Microsoft Power BI Desktop.
+
+Ouverture du fichier :
+
+Téléchargez le fichier .pbix depuis ce dépôt.
+
+Ouvrez le fichier dans Power BI Desktop.
+
+Navigation dans le tableau de bord :
+
+Utilisez les onglets en haut pour basculer entre les pages.
+
+Filtrez les données à l’aide des menus déroulants et des contrôles interactifs.
+
+Suggestions d’améliorations
+
+Ajouter des données supplémentaires pour une analyse plus approfondie (ex. : sources d'énergie renouvelable).
+
+Intégrer des visualisations prédictives pour estimer les tendances futures.
+
+Connecter à une base de données en ligne pour une mise à jour automatique des données.
+
+Aperçu
+
+
+
+Auteur
+
+Ce projet a été réalisé par [Votre Nom] dans le cadre de la gestion énergétique et environnementale.
+
+Licence
+
+Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le redistribuer avec attribution.
+
